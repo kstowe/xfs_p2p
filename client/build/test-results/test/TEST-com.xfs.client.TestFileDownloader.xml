@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.xfs.client.TestFileDownloader" tests="11" skipped="0" failures="0" errors="0" timestamp="2019-05-05T20:23:57" hostname="Kevin-Lenovo" time="0.483">
+  <properties/>
+  <testcase name="testSendLoadSendsCorrectMessage" classname="com.xfs.client.TestFileDownloader" time="0.433"/>
+  <testcase name="testSendDownloadSendsFileWithChecksum" classname="com.xfs.client.TestFileDownloader" time="0.016"/>
+  <testcase name="testDownloadSendsCorrectCommandAndFilename" classname="com.xfs.client.TestFileDownloader" time="0.016"/>
+  <testcase name="getLoadReturnsCorrectLoad" classname="com.xfs.client.TestFileDownloader" time="0.002"/>
+  <testcase name="processRequestReturnsCorrectCommandForDownload" classname="com.xfs.client.TestFileDownloader" time="0.002"/>
+  <testcase name="processRequestReturnsCorrectCommandForGetLoad" classname="com.xfs.client.TestFileDownloader" time="0.001"/>
+  <testcase name="downloadThrowsChecksumMistmatchExceptionWhenFileCorrupted" classname="com.xfs.client.TestFileDownloader" time="0.002"/>
+  <testcase name="testDownloadReturnsCorrectFile" classname="com.xfs.client.TestFileDownloader" time="0.003"/>
+  <testcase name="downloadThrowsIOExceptionIfFileTooShort" classname="com.xfs.client.TestFileDownloader" time="0.002"/>
+  <testcase name="getLoadReturnsNegativeWhenInputIsBad" classname="com.xfs.client.TestFileDownloader" time="0.001"/>
+  <testcase name="getLoadReturnsNegativeWhenPeerIsDown" classname="com.xfs.client.TestFileDownloader" time="0.003"/>
+  <system-out><![CDATA[e2f67c772368acdeee6a2242c535c6cc28d8e0ed
+e2f67c772368acdeee6a2242c535c6cc28d8e0ed
+e2f67c772368acdeee6a2242c535c6cc28d8e0ed
+d3e1f8dd7cfcb5324aa72df18a08049c2c834408
+e2f67c772368acdeee6a2242c535c6cc28d8e0ed
+e2f67c772368acdeee6a2242c535c6cc28d8e0ed
+1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,34 @@
+plugins {
+  // Apply the java plugin to add support for Java
+  id 'java'
+  id 'application'
+}
+
+dependencies {
+  compile project(':common')
+}
+
+task fatJar(type: Jar) {
+    manifest {
+        attributes 'Main-Class': 'com.xfs.client.Client'
+    }
+    archiveBaseName = project.name + '-all'
+    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
+}
+
+build {
+  finalizedBy fatJar
+}
+
+
+jar { 
+    manifest {
+    	attributes 'Main-Class': 'com.xfs.client.Client'
+    }
+}
+
+
+/*      'Class-Path': '/home/stowe073/gitprac/peer2peer/common/build/libs/common.jar' */
+
+mainClassName = 'com.xfs.client.Client'

@@ -1,0 +1,612 @@
+Apr 25, 2019 12:06:07 AM ClientImpl setUpLogFile
+INFO: Peer is up.
+Apr 25, 2019 12:06:39 AM ClientImpl$UserInterface run
+INFO: No peers with file ;lkj are currently available.
+Apr 25, 2019 12:06:39 AM ClientImpl$UserInterface run
+INFO: Total time: 4
+Apr 25, 2019 12:06:39 AM ClientImpl updateList
+INFO: Updating tracking server with file list...
+Apr 27, 2019 11:46:33 PM ClientImpl setUpLogFile
+INFO: Peer is up.
+Apr 27, 2019 11:46:39 PM ClientImpl$UserInterface run
+INFO: No peers with file asdf are currently available.
+Apr 27, 2019 11:46:39 PM ClientImpl$UserInterface run
+INFO: Total time: 4
+Apr 27, 2019 11:46:39 PM ClientImpl updateList
+INFO: Updating tracking server with file list...
+Apr 27, 2019 11:46:42 PM ClientImpl$UserInterface run
+INFO: Shutting down.
+Apr 28, 2019 12:39:44 AM ClientImpl setUpLogFile
+INFO: Peer is up.
+Apr 28, 2019 12:40:13 AM ClientImpl$UserInterface run
+INFO: No peers with file system_design.pdf are currently available.
+Apr 28, 2019 12:40:13 AM ClientImpl$UserInterface run
+INFO: Total time: 2
+Apr 28, 2019 10:46:44 PM ClientImpl setUpLogFile
+INFO: Peer is up.
+Apr 28, 2019 10:47:14 PM ClientImpl setUpLogFile
+INFO: Peer is up.
+Apr 28, 2019 10:51:20 PM ClientImpl setUpLogFile
+INFO: Peer is up.
+Apr 28, 2019 10:53:34 PM ClientImpl setUpLogFile
+INFO: Peer is up.
+Apr 28, 2019 11:06:48 PM ClientImpl setUpLogFile
+INFO: Peer is up.
+Apr 28, 2019 11:06:51 PM ClientImpl run
+INFO: Successfully downloaded asdf.
+Apr 28, 2019 11:06:51 PM ClientImpl run
+INFO: Shutting down.
+Apr 28, 2019 11:10:11 PM ClientImpl setUpLogFile
+INFO: Peer is up.
+Apr 28, 2019 11:10:13 PM ClientImpl run
+INFO: Download failed: asdf
+Apr 28, 2019 11:10:18 PM ClientImpl run
+INFO: Shutting down.
+Apr 29, 2019 1:55:49 PM ClientImpl setUpLogFile
+INFO: Peer is up.
+Apr 29, 2019 1:56:47 PM ClientImpl setUpLogFile
+INFO: Peer is up.
+Apr 29, 2019 1:56:51 PM ClientImpl run
+INFO: Download failed: grub
+Apr 29, 2019 1:57:01 PM ClientImpl run
+INFO: Shutting down.
+May 03, 2019 10:28:54 PM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 03, 2019 10:28:54 PM com.xfs.client.XFSPeer register
+INFO: Failed to register.
+May 03, 2019 10:29:17 PM com.xfs.client.XFSPeer download
+INFO: Connection refused (Connection refused)
+May 03, 2019 10:32:50 PM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 03, 2019 10:32:50 PM com.xfs.client.XFSPeer register
+INFO: Failed to register.
+May 03, 2019 10:38:42 PM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 03, 2019 10:38:42 PM com.xfs.client.XFSPeer register
+INFO: Failed to register.
+May 03, 2019 10:39:04 PM com.xfs.client.XFSPeer download
+INFO: Connection refused (Connection refused)
+May 03, 2019 10:39:54 PM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 03, 2019 10:39:54 PM com.xfs.client.XFSPeer register
+INFO: Failed to register.
+May 03, 2019 10:40:44 PM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 03, 2019 10:50:18 PM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 03, 2019 10:50:18 PM com.xfs.client.XFSPeer register
+INFO: Failed to register.
+May 03, 2019 10:50:21 PM com.xfs.client.XFSPeer download
+INFO: Connection refused (Connection refused)
+May 03, 2019 10:50:21 PM com.xfs.client.XFSPeer download
+INFO: No peers with file asdf are currently available.
+May 03, 2019 10:50:21 PM com.xfs.client.XFSPeer register
+INFO: Failed to register.
+May 03, 2019 10:53:42 PM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 03, 2019 11:00:45 PM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 03, 2019 11:00:45 PM com.xfs.client.XFSPeer register
+INFO: Failed to register.
+May 03, 2019 11:00:56 PM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 03, 2019 11:04:14 PM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 03, 2019 11:22:18 PM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 03, 2019 11:22:29 PM com.xfs.client.XFSPeer download
+INFO: No peers with file asdf are currently available.
+May 03, 2019 11:26:44 PM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 03, 2019 11:26:44 PM com.xfs.client.XFSPeer register
+INFO: Failed to register.
+May 03, 2019 11:26:58 PM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 03, 2019 11:27:05 PM com.xfs.client.XFSPeer download
+INFO: No peers with file asfds are currently available.
+May 03, 2019 11:30:45 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: Sending load: 0
+May 03, 2019 11:30:45 PM com.xfs.client.XFSPeer download
+INFO: Download failed: File is local.
+May 03, 2019 11:30:45 PM com.xfs.client.XFSPeer download
+INFO: Total time: 5
+May 03, 2019 11:32:18 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: Sending load: 0
+May 03, 2019 11:32:18 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:16 PM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 03, 2019 11:43:38 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: Sending load: 0
+May 03, 2019 11:43:38 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:39 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:39 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:40 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:40 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:41 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:41 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:41 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:42 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:42 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:43 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:43 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:44 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:44 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:45 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:45 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:45 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:46 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:46 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:47 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:47 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:48 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:48 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:49 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:49 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:49 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:50 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:50 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:51 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:51 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:52 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:52 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:53 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:43:53 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:44:37 PM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 03, 2019 11:44:53 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: Sending load: 0
+May 03, 2019 11:44:53 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:44:54 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:44:54 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:44:55 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:44:55 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:44:56 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:52:51 PM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 03, 2019 11:53:11 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: Sending load: 0
+May 03, 2019 11:53:11 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:53:12 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:53:12 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:53:12 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 03, 2019 11:53:13 PM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:07:44 AM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 04, 2019 12:08:05 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: Sending load: 0
+May 04, 2019 12:09:47 AM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 04, 2019 12:09:47 AM com.xfs.client.XFSPeer register
+INFO: Failed to register.
+May 04, 2019 12:09:58 AM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 04, 2019 12:10:12 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: Sending load: 0
+May 04, 2019 12:10:12 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:10:13 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:10:13 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:10:14 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:10:14 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:10:14 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:10:15 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:10:15 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:17 AM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 04, 2019 12:16:31 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: Sending load: 0
+May 04, 2019 12:16:31 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:31 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:31 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:31 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:31 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:31 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:32 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:16:55 AM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 04, 2019 12:17:08 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: Sending load: 0
+May 04, 2019 12:17:08 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:17:08 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:17:08 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:17:08 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:17:08 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:17:08 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:17:08 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:17:08 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:11 AM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 04, 2019 12:22:25 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: Sending load: 0
+May 04, 2019 12:22:25 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:25 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:25 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:25 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:25 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:25 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:25 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:25 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:25 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:25 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:25 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:25 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:25 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:25 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:25 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:25 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:25 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:25 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:25 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:26 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:27 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:27 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:27 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:27 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:27 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:27 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:27 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:27 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:27 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:27 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:27 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:27 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:22:27 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:10 AM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 04, 2019 12:24:22 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: Sending load: 0
+May 04, 2019 12:24:22 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:22 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:22 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:22 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:22 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:22 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:24:23 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:26:41 AM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 04, 2019 12:26:55 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: Sending load: 0
+May 04, 2019 12:26:55 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:32:33 AM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 04, 2019 12:32:44 AM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 04, 2019 12:33:05 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: Sending load: 0
+May 04, 2019 12:33:05 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:34:15 AM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 04, 2019 12:34:33 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: Sending load: 0
+May 04, 2019 12:34:34 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:36:47 AM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 04, 2019 12:37:03 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: Sending load: 0
+May 04, 2019 12:37:03 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
+May 04, 2019 12:39:25 AM com.xfs.client.XFSPeer setUpLogFile
+INFO: Peer is up.
+May 04, 2019 12:39:37 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: Sending load: 0
+May 04, 2019 12:39:38 AM com.xfs.client.XFSPeer$PeerQuery run
+INFO: system_design.pdf successfully sent
